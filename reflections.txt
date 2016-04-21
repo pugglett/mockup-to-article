@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+What new skills have you learned?
+	* I haven't learned new skills in HTML and CSS just yet, as I do have quite a bit of experience with them. However, getting exposure to the Udacity Feedback extension has been a learning experience for me. I teach HTML and CSS, and learned about writing automated tests with Ruby/Capybara etc to help me grade student submissions. It's been a difficult process and I wasn't able to tailor the tests exactly how I wanted - being able to write tests for the Udacity Feedback extension is something I'm looking forward to learn.
+
+What has been easy?
+	* Finishing the HTML Problem set has been pretty easy for me so far.
+
+What has been difficult?
+	* The difficulty that I've experienced has less to do with the code and more to do with nmy overall motivation/time management. I've been enrolled in this nanodegree for a long time and felt bad about losing motivation almost a year ago. The difficult thing for me has been to just get started from the beginning again.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+	* I've used the strategies of researching when necessary, but it's mostly the self-motivating and growth mindset that have been helpful for me so far. I'm really trying to coontinue my progress and not give up.
